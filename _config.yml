@@ -1,0 +1,12 @@
+# Site settings
+title: Keystone Digital Humanities Conference 2015
+email: contact@keystonedh.org
+description: > # this means to ignore newlines until "baseurl:"
+  The 2015 Keystone Digital Humanities Conference was held in the Kislak Center for Special Collections, Rare Books and Manuscripts at the University of Pennsylvania Libraries, July 22-24, 2015.
+baseurl: "/2015" # the subpath of your site, e.g. /blog/
+url: "http://keystonedh.org" # the base hostname & protocol for your site
+twitter_username: KeystoneDH
+github_username:  KeystoneDH
+
+# Build settings
+markdown: kramdown
