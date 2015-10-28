@@ -18,6 +18,7 @@ the form of interactive presentations, short papers, project demos, panel discus
 
 On Twitter? Follow the Keystone DH hashtag [#keydh](https://twitter.com/search?f=tweets&vertical=default&q=%23keydh&src=typd)
 
+![ACH Logo](images/ach.jpg)
 
 The [Association for Computers and the Humanities](http://ach.org/) is covering registration for ten graduate students to present at the conference.
 
