@@ -43,6 +43,13 @@ $on-laptop:        800px;
 }
 
 
+# Custom CSS for centering images
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

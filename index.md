@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-![Ben Franklin](images/Benjamin_Franklin_2.jpg)
+![Ben Franklin](images/Benjamin_Franklin_2.jpg){: .center-image }
 
 The Keystone Digital Humanities Conference was hels in the Kislak Center for Special Collections, Rare Books and Manuscripts at the University of Pennsylvania Libraries, July 22-24, 2015.
 
@@ -18,7 +18,7 @@ the form of interactive presentations, short papers, project demos, panel discus
 
 On Twitter? Follow the Keystone DH hashtag [#keydh](https://twitter.com/search?f=tweets&vertical=default&q=%23keydh&src=typd)
 
-![ACH Logo](images/ach.jpg)
+![ACH Logo](images/ach.jpg){: .center-image }
 
 The [Association for Computers and the Humanities](http://ach.org/) is covering registration for ten graduate students to present at the conference.
 
